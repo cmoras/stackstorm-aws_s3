@@ -2,3 +2,4 @@ six
 boto3
 flask>=0.10.1
 st2aws
+parser
